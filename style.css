@@ -1,0 +1,20 @@
+.block{
+    height: 500px;
+    width: 500px;
+    border: solid 5px greenyellow;
+    background-color: black;
+    position: fixed; top: 100px; left:300px;
+}
+.text2{     
+    font-size: xx-large;
+}
+.block1{
+    height: 300px;
+    width: 500px;
+    border: solid 5px orange;
+    background-color: black;
+    position: sticky; top: 0px; left: 500px;
+}
+.text1{
+    font-size: xx-large;
+}
